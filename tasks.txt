@@ -1,0 +1,8 @@
+show datatable reactive
+show pieplot on select an instance of barplot
+validate if pca common analysis matches the predictions with plco cohort labels
+remake the word map with frequency % of a certain pc in the country
+separate the web applications into user upload 23andme and plco cohort presentation
+when showing only plco data, color the regions that belong to the ancestry predictions
+
+

@@ -1,0 +1,155 @@
+pca,location,count,total_country,percentage
+PC0,"Albania",779,779,100.00
+PC0,"Andorra",779,779,100.00
+PC0,"Austria",779,779,100.00
+PC0,"Belarus",779,779,100.00
+PC0,"Belgium",779,779,100.00
+PC0,"Bosnia and Herzegovina",779,779,100.00
+PC0,"Bulgaria",779,779,100.00
+PC0,"Croatia",779,779,100.00
+PC0,"Czech Republic",779,779,100.00
+PC0,"Denmark",779,779,100.00
+PC0,"Estonia",779,779,100.00
+PC0,"Finland",779,779,100.00
+PC0,"France",779,779,100.00
+PC0,"Germany",779,779,100.00
+PC0,"Gibraltar",779,779,100.00
+PC0,"Greece",779,779,100.00
+PC0,"Holy See",779,779,100.00
+PC0,"Hungary",779,779,100.00
+PC0,"Iceland",779,779,100.00
+PC0,"Ireland",779,779,100.00
+PC0,"Italy",779,779,100.00
+PC0,"Kosovo",779,779,100.00
+PC0,"Latvia",779,779,100.00
+PC0,"Liechtenstein",779,779,100.00
+PC0,"Lithuania",779,779,100.00
+PC0,"Luxembourg",779,779,100.00
+PC0,"Macedonia",779,779,100.00
+PC0,"Malta",779,779,100.00
+PC0,"Moldova",779,779,100.00
+PC0,"Monaco",779,779,100.00
+PC0,"Montenegro",779,779,100.00
+PC0,"Netherlands",779,779,100.00
+PC0,"Norway",779,779,100.00
+PC0,"Poland",779,779,100.00
+PC0,"Portugal",779,779,100.00
+PC0,"Romania",779,779,100.00
+PC0,"Russia",779,779,100.00
+PC0,"San Marino",779,779,100.00
+PC0,"Slovak Republic",779,779,100.00
+PC0,"Slovenia",779,779,100.00
+PC0,"Spain",779,779,100.00
+PC0,"Serbia",779,779,100.00
+PC0,"Serbia and Montenegro",779,779,100.00
+PC0,"Sweden",779,779,100.00
+PC0,"Switzerland",779,779,100.00
+PC0,"Ukraine",779,779,100.00
+PC0,"United Kingdom",779,779,100.00
+PC1,"Algeria",357,357,100.00
+PC1,"Angola",357,357,100.00
+PC1,"Benin",357,357,100.00
+PC1,"Botswana",357,357,100.00
+PC1,"Burkina Faso",357,357,100.00
+PC1,"Burundi",357,357,100.00
+PC1,"Cameroon",357,357,100.00
+PC1,"Cape Verde",357,357,100.00
+PC1,"Central African Republic",357,357,100.00
+PC1,"Chad",357,357,100.00
+PC1,"Comoros",357,357,100.00
+PC1,"Cote d'Ivoire",357,357,100.00
+PC1,"Democratic Republic of the Congo",357,357,100.00
+PC1,"Djibouti",357,357,100.00
+PC1,"Egypt",357,357,100.00
+PC1,"Equatorial Guinea",357,357,100.00
+PC1,"Eritrea",357,357,100.00
+PC1,"Ethiopia",357,357,100.00
+PC1,"Gabon",357,357,100.00
+PC1,"Gambia",357,357,100.00
+PC1,"Ghana",357,357,100.00
+PC1,"Guinea",357,357,100.00
+PC1,"Guinea-Bissau",357,357,100.00
+PC1,"Kenya",357,357,100.00
+PC1,"Lesotho",357,357,100.00
+PC1,"Liberia",357,357,100.00
+PC1,"Libya",357,357,100.00
+PC1,"Madagascar",357,357,100.00
+PC1,"Malawi",357,357,100.00
+PC1,"Mali",357,357,100.00
+PC1,"Mauritania",357,357,100.00
+PC1,"Mauritius",357,357,100.00
+PC1,"Morocco",357,357,100.00
+PC1,"Mozambique",357,357,100.00
+PC1,"Namibia",357,357,100.00
+PC1,"Niger",357,357,100.00
+PC1,"Nigeria",357,357,100.00
+PC1,"Republic of the Congo",357,357,100.00
+PC1,"Reunion",357,357,100.00
+PC1,"Rwanda",357,357,100.00
+PC1,"Saint Helena",357,357,100.00
+PC1,"Sao Tome and Principe",357,357,100.00
+PC1,"Senegal",357,357,100.00
+PC1,"Seychelles",357,357,100.00
+PC1,"Sierra Leone",357,357,100.00
+PC1,"Somalia",357,357,100.00
+PC1,"South Africa",357,357,100.00
+PC1,"South Sudan",357,357,100.00
+PC1,"Sudan",357,357,100.00
+PC1,"Swaziland",357,357,100.00
+PC1,"Tanzania",357,357,100.00
+PC1,"Togo",357,357,100.00
+PC1,"Tunisia",357,357,100.00
+PC1,"Uganda",357,357,100.00
+PC1,"Western Sahara",357,357,100.00
+PC1,"Zambia",357,357,100.00
+PC1,"Zimbabwe",357,357,100.00
+PC2,"Afghanistan",15757,15757,100.00
+PC2,"Armenia",15757,15757,100.00
+PC2,"Azerbaijan",15757,15757,100.00
+PC2,"Bahrain",15757,15757,100.00
+PC2,"Bangladesh",15757,15757,100.00
+PC2,"Bhutan",15757,15757,100.00
+PC2,"Brunei",15757,15757,100.00
+PC2,"Burma",15757,15757,100.00
+PC2,"Cambodia",15757,15757,100.00
+PC2,"China",15757,15757,100.00
+PC2,"Cyprus",15757,15757,100.00
+PC2,"East Timor",15757,15757,100.00
+PC2,"Georgia",15757,15757,100.00
+PC2,"Hong Kong",15757,15757,100.00
+PC2,"India",15757,15757,100.00
+PC2,"Indonesia",15757,15757,100.00
+PC2,"Iran",15757,15757,100.00
+PC2,"Iraq",15757,15757,100.00
+PC2,"Israel",15757,15757,100.00
+PC2,"Japan",15757,15757,100.00
+PC2,"Jordan",15757,15757,100.00
+PC2,"Kazakhstan",15757,15757,100.00
+PC2,"Kuwait",15757,15757,100.00
+PC2,"Kyrgyzstan",15757,15757,100.00
+PC2,"Laos",15757,15757,100.00
+PC2,"Lebanon",15757,15757,100.00
+PC2,"Macau",15757,15757,100.00
+PC2,"Malaysia",15757,15757,100.00
+PC2,"Maldives",15757,15757,100.00
+PC2,"Mongolia",15757,15757,100.00
+PC2,"Nepal",15757,15757,100.00
+PC2,"North Korea",15757,15757,100.00
+PC2,"Oman",15757,15757,100.00
+PC2,"Pakistan",15757,15757,100.00
+PC2,"Philippines",15757,15757,100.00
+PC2,"Qatar",15757,15757,100.00
+PC2,"Saudi Arabia",15757,15757,100.00
+PC2,"Singapore",15757,15757,100.00
+PC2,"South Korea",15757,15757,100.00
+PC2,"Sri Lanka",15757,15757,100.00
+PC2,"Syria",15757,15757,100.00
+PC2,"Taiwan",15757,15757,100.00
+PC2,"Tajikistan",15757,15757,100.00
+PC2,"Thailand",15757,15757,100.00
+PC2,"Turkey",15757,15757,100.00
+PC2,"Turkmenistan",15757,15757,100.00
+PC2,"United Arab Emirates",15757,15757,100.00
+PC2,"Uzbekistan",15757,15757,100.00
+PC2,"Vietnam",15757,15757,100.00
+PC2,"Yemen",15757,15757,100.00

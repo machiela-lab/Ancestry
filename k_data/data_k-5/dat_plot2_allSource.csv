@@ -1,0 +1,68 @@
+pca,location,count,total_country,percentage
+PC0,"United Kingdom of Great Britain and Northern Ireland (the)",106,106,100.00
+PC0,"Finland",101,101,100.00
+PC0,"United States of America (the)",101,104,97.12
+PC0,"Colombia",85,101,84.16
+PC0,"Spain",107,107,100.00
+PC0,"Pakistan",197,264,74.62
+PC0,"Afghanistan",4,19,21.05
+PC0,"France",51,51,100.00
+PC0,"Palestine, State of",89,89,100.00
+PC0,"Israel",45,46,97.83
+PC0,"Italy",155,155,100.00
+PC0,"Russian Federation (the)",48,51,94.12
+PC0,"Algeria",25,27,92.59
+PC0,"China",4,19,21.05
+PC0,"Bulgaria",2,2,100.00
+PC0,"Georgia",4,4,100.00
+PC0,"Hungary",2,2,100.00
+PC0,"Iran (Islamic Republic of)",2,2,100.00
+PC0,"Iceland",2,2,100.00
+PC0,"Somalia",1,1,100.00
+PC0,"Jordan",3,3,100.00
+PC0,"Azerbaijan",1,1,100.00
+PC0,"Estonia",2,2,100.00
+PC0,"Greece",4,4,100.00
+PC0,"Czechia",1,1,100.00
+PC0,"Tajikistan",2,2,100.00
+PC0,"Turkey",3,3,100.00
+PC0,"Norway",1,1,100.00
+PC0,"Iraq",2,2,100.00
+PC0,"Poland",1,1,100.00
+PC0,"Yemen",2,2,100.00
+PC0,"Morocco",2,2,100.00
+PC0,"Albania",1,1,100.00
+PC0,"India",9,220,4.09
+PC1,"Congo (the Democratic Republic of the)",13,13,100.00
+PC1,"Central African Republic (the)",22,22,100.00
+PC1,"Namibia",5,7,71.43
+PC1,"Botswana",1,5,20.00
+PC1,"South Africa",2,4,50.00
+PC2,"Afghanistan",15,19,78.95
+PC2,"China",15,19,78.95
+PC2,"Russian Federation (the)",3,51,5.88
+PC2,"Nepal",2,2,100.00
+PC2,"Kyrgyzstan",2,2,100.00
+PC3,"Colombia",16,101,15.84
+PC3,"Peru",87,88,98.86
+PC3,"Pakistan",66,264,25.00
+PC3,"Sri Lanka",101,101,100.00
+PC3,"India",211,220,95.91
+PC3,"Brazil",20,20,100.00
+PC3,"Argentina",1,1,100.00
+PC4,"United States of America (the)",3,104,2.88
+PC4,"Barbados",96,96,100.00
+PC4,"Peru",1,88,1.14
+PC4,"Gambia (the)",113,113,100.00
+PC4,"Nigeria",229,229,100.00
+PC4,"Sierra Leone",85,85,100.00
+PC4,"Pakistan",1,264,0.38
+PC4,"Israel",1,46,2.17
+PC4,"Guinea",22,22,100.00
+PC4,"Botswana",4,5,80.00
+PC4,"Algeria",2,27,7.41
+PC4,"Tanzania, United Republic of",11,11,100.00
+PC4,"Namibia",2,7,28.57
+PC4,"Kenya",104,104,100.00
+PC4,"South Sudan",3,3,100.00
+PC4,"South Africa",2,4,50.00

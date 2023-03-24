@@ -1,0 +1,262 @@
+pca,location,count,total_country,percentage
+PC0,"Afghanistan",2457,14991,16.39
+PC0,"Armenia",2457,14991,16.39
+PC0,"Azerbaijan",2457,14991,16.39
+PC0,"Bahrain",2457,14991,16.39
+PC0,"Bangladesh",2457,14991,16.39
+PC0,"Bhutan",2457,14991,16.39
+PC0,"Brunei",2457,14991,16.39
+PC0,"Burma",2457,14991,16.39
+PC0,"Cambodia",2457,14991,16.39
+PC0,"China",2457,14991,16.39
+PC0,"Cyprus",2457,14991,16.39
+PC0,"East Timor",2457,14991,16.39
+PC0,"Georgia",2457,14991,16.39
+PC0,"Hong Kong",2457,14991,16.39
+PC0,"India",2457,14991,16.39
+PC0,"Indonesia",2457,14991,16.39
+PC0,"Iran",2457,14991,16.39
+PC0,"Iraq",2457,14991,16.39
+PC0,"Israel",2457,14991,16.39
+PC0,"Japan",2457,14991,16.39
+PC0,"Jordan",2457,14991,16.39
+PC0,"Kazakhstan",2457,14991,16.39
+PC0,"Kuwait",2457,14991,16.39
+PC0,"Kyrgyzstan",2457,14991,16.39
+PC0,"Laos",2457,14991,16.39
+PC0,"Lebanon",2457,14991,16.39
+PC0,"Macau",2457,14991,16.39
+PC0,"Malaysia",2457,14991,16.39
+PC0,"Maldives",2457,14991,16.39
+PC0,"Mongolia",2457,14991,16.39
+PC0,"Nepal",2457,14991,16.39
+PC0,"North Korea",2457,14991,16.39
+PC0,"Oman",2457,14991,16.39
+PC0,"Pakistan",2457,14991,16.39
+PC0,"Philippines",2457,14991,16.39
+PC0,"Qatar",2457,14991,16.39
+PC0,"Saudi Arabia",2457,14991,16.39
+PC0,"Singapore",2457,14991,16.39
+PC0,"South Korea",2457,14991,16.39
+PC0,"Sri Lanka",2457,14991,16.39
+PC0,"Syria",2457,14991,16.39
+PC0,"Taiwan",2457,14991,16.39
+PC0,"Tajikistan",2457,14991,16.39
+PC0,"Thailand",2457,14991,16.39
+PC0,"Turkey",2457,14991,16.39
+PC0,"Turkmenistan",2457,14991,16.39
+PC0,"United Arab Emirates",2457,14991,16.39
+PC0,"Uzbekistan",2457,14991,16.39
+PC0,"Vietnam",2457,14991,16.39
+PC0,"Yemen",2457,14991,16.39
+PC1,"Afghanistan",12534,14991,83.61
+PC1,"Armenia",12534,14991,83.61
+PC1,"Azerbaijan",12534,14991,83.61
+PC1,"Bahrain",12534,14991,83.61
+PC1,"Bangladesh",12534,14991,83.61
+PC1,"Bhutan",12534,14991,83.61
+PC1,"Brunei",12534,14991,83.61
+PC1,"Burma",12534,14991,83.61
+PC1,"Cambodia",12534,14991,83.61
+PC1,"China",12534,14991,83.61
+PC1,"Cyprus",12534,14991,83.61
+PC1,"East Timor",12534,14991,83.61
+PC1,"Georgia",12534,14991,83.61
+PC1,"Hong Kong",12534,14991,83.61
+PC1,"India",12534,14991,83.61
+PC1,"Indonesia",12534,14991,83.61
+PC1,"Iran",12534,14991,83.61
+PC1,"Iraq",12534,14991,83.61
+PC1,"Israel",12534,14991,83.61
+PC1,"Japan",12534,14991,83.61
+PC1,"Jordan",12534,14991,83.61
+PC1,"Kazakhstan",12534,14991,83.61
+PC1,"Kuwait",12534,14991,83.61
+PC1,"Kyrgyzstan",12534,14991,83.61
+PC1,"Laos",12534,14991,83.61
+PC1,"Lebanon",12534,14991,83.61
+PC1,"Macau",12534,14991,83.61
+PC1,"Malaysia",12534,14991,83.61
+PC1,"Maldives",12534,14991,83.61
+PC1,"Mongolia",12534,14991,83.61
+PC1,"Nepal",12534,14991,83.61
+PC1,"North Korea",12534,14991,83.61
+PC1,"Oman",12534,14991,83.61
+PC1,"Pakistan",12534,14991,83.61
+PC1,"Philippines",12534,14991,83.61
+PC1,"Qatar",12534,14991,83.61
+PC1,"Saudi Arabia",12534,14991,83.61
+PC1,"Singapore",12534,14991,83.61
+PC1,"South Korea",12534,14991,83.61
+PC1,"Sri Lanka",12534,14991,83.61
+PC1,"Syria",12534,14991,83.61
+PC1,"Taiwan",12534,14991,83.61
+PC1,"Tajikistan",12534,14991,83.61
+PC1,"Thailand",12534,14991,83.61
+PC1,"Turkey",12534,14991,83.61
+PC1,"Turkmenistan",12534,14991,83.61
+PC1,"United Arab Emirates",12534,14991,83.61
+PC1,"Uzbekistan",12534,14991,83.61
+PC1,"Vietnam",12534,14991,83.61
+PC1,"Yemen",12534,14991,83.61
+PC2,"Algeria",299,1084,27.58
+PC2,"Angola",299,1084,27.58
+PC2,"Benin",299,1084,27.58
+PC2,"Botswana",299,1084,27.58
+PC2,"Burkina Faso",299,1084,27.58
+PC2,"Burundi",299,1084,27.58
+PC2,"Cameroon",299,1084,27.58
+PC2,"Cape Verde",299,1084,27.58
+PC2,"Central African Republic",299,1084,27.58
+PC2,"Chad",299,1084,27.58
+PC2,"Comoros",299,1084,27.58
+PC2,"Cote d'Ivoire",299,1084,27.58
+PC2,"Democratic Republic of the Congo",299,1084,27.58
+PC2,"Djibouti",299,1084,27.58
+PC2,"Egypt",299,1084,27.58
+PC2,"Equatorial Guinea",299,1084,27.58
+PC2,"Eritrea",299,1084,27.58
+PC2,"Ethiopia",299,1084,27.58
+PC2,"Gabon",299,1084,27.58
+PC2,"Gambia",299,1084,27.58
+PC2,"Ghana",299,1084,27.58
+PC2,"Guinea",299,1084,27.58
+PC2,"Guinea-Bissau",299,1084,27.58
+PC2,"Kenya",299,1084,27.58
+PC2,"Lesotho",299,1084,27.58
+PC2,"Liberia",299,1084,27.58
+PC2,"Libya",299,1084,27.58
+PC2,"Madagascar",299,1084,27.58
+PC2,"Malawi",299,1084,27.58
+PC2,"Mali",299,1084,27.58
+PC2,"Mauritania",299,1084,27.58
+PC2,"Mauritius",299,1084,27.58
+PC2,"Morocco",299,1084,27.58
+PC2,"Mozambique",299,1084,27.58
+PC2,"Namibia",299,1084,27.58
+PC2,"Niger",299,1084,27.58
+PC2,"Nigeria",299,1084,27.58
+PC2,"Republic of the Congo",299,1084,27.58
+PC2,"Reunion",299,1084,27.58
+PC2,"Rwanda",299,1084,27.58
+PC2,"Saint Helena",299,1084,27.58
+PC2,"Sao Tome and Principe",299,1084,27.58
+PC2,"Senegal",299,1084,27.58
+PC2,"Seychelles",299,1084,27.58
+PC2,"Sierra Leone",299,1084,27.58
+PC2,"Somalia",299,1084,27.58
+PC2,"South Africa",299,1084,27.58
+PC2,"South Sudan",299,1084,27.58
+PC2,"Sudan",299,1084,27.58
+PC2,"Swaziland",299,1084,27.58
+PC2,"Tanzania",299,1084,27.58
+PC2,"Togo",299,1084,27.58
+PC2,"Tunisia",299,1084,27.58
+PC2,"Uganda",299,1084,27.58
+PC2,"Western Sahara",299,1084,27.58
+PC2,"Zambia",299,1084,27.58
+PC2,"Zimbabwe",299,1084,27.58
+PC3,"Algeria",785,1084,72.42
+PC3,"Angola",785,1084,72.42
+PC3,"Benin",785,1084,72.42
+PC3,"Botswana",785,1084,72.42
+PC3,"Burkina Faso",785,1084,72.42
+PC3,"Burundi",785,1084,72.42
+PC3,"Cameroon",785,1084,72.42
+PC3,"Cape Verde",785,1084,72.42
+PC3,"Central African Republic",785,1084,72.42
+PC3,"Chad",785,1084,72.42
+PC3,"Comoros",785,1084,72.42
+PC3,"Cote d'Ivoire",785,1084,72.42
+PC3,"Democratic Republic of the Congo",785,1084,72.42
+PC3,"Djibouti",785,1084,72.42
+PC3,"Egypt",785,1084,72.42
+PC3,"Equatorial Guinea",785,1084,72.42
+PC3,"Eritrea",785,1084,72.42
+PC3,"Ethiopia",785,1084,72.42
+PC3,"Gabon",785,1084,72.42
+PC3,"Gambia",785,1084,72.42
+PC3,"Ghana",785,1084,72.42
+PC3,"Guinea",785,1084,72.42
+PC3,"Guinea-Bissau",785,1084,72.42
+PC3,"Kenya",785,1084,72.42
+PC3,"Lesotho",785,1084,72.42
+PC3,"Liberia",785,1084,72.42
+PC3,"Libya",785,1084,72.42
+PC3,"Madagascar",785,1084,72.42
+PC3,"Malawi",785,1084,72.42
+PC3,"Mali",785,1084,72.42
+PC3,"Mauritania",785,1084,72.42
+PC3,"Mauritius",785,1084,72.42
+PC3,"Morocco",785,1084,72.42
+PC3,"Mozambique",785,1084,72.42
+PC3,"Namibia",785,1084,72.42
+PC3,"Niger",785,1084,72.42
+PC3,"Nigeria",785,1084,72.42
+PC3,"Republic of the Congo",785,1084,72.42
+PC3,"Reunion",785,1084,72.42
+PC3,"Rwanda",785,1084,72.42
+PC3,"Saint Helena",785,1084,72.42
+PC3,"Sao Tome and Principe",785,1084,72.42
+PC3,"Senegal",785,1084,72.42
+PC3,"Seychelles",785,1084,72.42
+PC3,"Sierra Leone",785,1084,72.42
+PC3,"Somalia",785,1084,72.42
+PC3,"South Africa",785,1084,72.42
+PC3,"South Sudan",785,1084,72.42
+PC3,"Sudan",785,1084,72.42
+PC3,"Swaziland",785,1084,72.42
+PC3,"Tanzania",785,1084,72.42
+PC3,"Togo",785,1084,72.42
+PC3,"Tunisia",785,1084,72.42
+PC3,"Uganda",785,1084,72.42
+PC3,"Western Sahara",785,1084,72.42
+PC3,"Zambia",785,1084,72.42
+PC3,"Zimbabwe",785,1084,72.42
+PC5,"Albania",68,68,100.00
+PC5,"Andorra",68,68,100.00
+PC5,"Austria",68,68,100.00
+PC5,"Belarus",68,68,100.00
+PC5,"Belgium",68,68,100.00
+PC5,"Bosnia and Herzegovina",68,68,100.00
+PC5,"Bulgaria",68,68,100.00
+PC5,"Croatia",68,68,100.00
+PC5,"Czech Republic",68,68,100.00
+PC5,"Denmark",68,68,100.00
+PC5,"Estonia",68,68,100.00
+PC5,"Finland",68,68,100.00
+PC5,"France",68,68,100.00
+PC5,"Germany",68,68,100.00
+PC5,"Gibraltar",68,68,100.00
+PC5,"Greece",68,68,100.00
+PC5,"Holy See",68,68,100.00
+PC5,"Hungary",68,68,100.00
+PC5,"Iceland",68,68,100.00
+PC5,"Ireland",68,68,100.00
+PC5,"Italy",68,68,100.00
+PC5,"Kosovo",68,68,100.00
+PC5,"Latvia",68,68,100.00
+PC5,"Liechtenstein",68,68,100.00
+PC5,"Lithuania",68,68,100.00
+PC5,"Luxembourg",68,68,100.00
+PC5,"Macedonia",68,68,100.00
+PC5,"Malta",68,68,100.00
+PC5,"Moldova",68,68,100.00
+PC5,"Monaco",68,68,100.00
+PC5,"Montenegro",68,68,100.00
+PC5,"Netherlands",68,68,100.00
+PC5,"Norway",68,68,100.00
+PC5,"Poland",68,68,100.00
+PC5,"Portugal",68,68,100.00
+PC5,"Romania",68,68,100.00
+PC5,"Russia",68,68,100.00
+PC5,"San Marino",68,68,100.00
+PC5,"Slovak Republic",68,68,100.00
+PC5,"Slovenia",68,68,100.00
+PC5,"Spain",68,68,100.00
+PC5,"Serbia",68,68,100.00
+PC5,"Serbia and Montenegro",68,68,100.00
+PC5,"Sweden",68,68,100.00
+PC5,"Switzerland",68,68,100.00
+PC5,"Ukraine",68,68,100.00
+PC5,"United Kingdom",68,68,100.00

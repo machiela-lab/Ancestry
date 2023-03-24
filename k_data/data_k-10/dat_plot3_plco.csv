@@ -1,0 +1,435 @@
+pca,location,count,total_country,percentage
+PC0,"Albania",3471,4492,77.27
+PC0,"Andorra",3471,4492,77.27
+PC0,"Austria",3471,4492,77.27
+PC0,"Belarus",3471,4492,77.27
+PC0,"Belgium",3471,4492,77.27
+PC0,"Bosnia and Herzegovina",3471,4492,77.27
+PC0,"Bulgaria",3471,4492,77.27
+PC0,"Croatia",3471,4492,77.27
+PC0,"Czech Republic",3471,4492,77.27
+PC0,"Denmark",3471,4492,77.27
+PC0,"Estonia",3471,4492,77.27
+PC0,"Finland",3471,4492,77.27
+PC0,"France",3471,4492,77.27
+PC0,"Germany",3471,4492,77.27
+PC0,"Gibraltar",3471,4492,77.27
+PC0,"Greece",3471,4492,77.27
+PC0,"Holy See",3471,4492,77.27
+PC0,"Hungary",3471,4492,77.27
+PC0,"Iceland",3471,4492,77.27
+PC0,"Ireland",3471,4492,77.27
+PC0,"Italy",3471,4492,77.27
+PC0,"Kosovo",3471,4492,77.27
+PC0,"Latvia",3471,4492,77.27
+PC0,"Liechtenstein",3471,4492,77.27
+PC0,"Lithuania",3471,4492,77.27
+PC0,"Luxembourg",3471,4492,77.27
+PC0,"Macedonia",3471,4492,77.27
+PC0,"Malta",3471,4492,77.27
+PC0,"Moldova",3471,4492,77.27
+PC0,"Monaco",3471,4492,77.27
+PC0,"Montenegro",3471,4492,77.27
+PC0,"Netherlands",3471,4492,77.27
+PC0,"Norway",3471,4492,77.27
+PC0,"Poland",3471,4492,77.27
+PC0,"Portugal",3471,4492,77.27
+PC0,"Romania",3471,4492,77.27
+PC0,"Russia",3471,4492,77.27
+PC0,"San Marino",3471,4492,77.27
+PC0,"Slovak Republic",3471,4492,77.27
+PC0,"Slovenia",3471,4492,77.27
+PC0,"Spain",3471,4492,77.27
+PC0,"Serbia",3471,4492,77.27
+PC0,"Serbia and Montenegro",3471,4492,77.27
+PC0,"Sweden",3471,4492,77.27
+PC0,"Switzerland",3471,4492,77.27
+PC0,"Ukraine",3471,4492,77.27
+PC0,"United Kingdom",3471,4492,77.27
+PC1,"Algeria",1238,9111,13.59
+PC1,"Angola",1238,9111,13.59
+PC1,"Benin",1238,9111,13.59
+PC1,"Botswana",1238,9111,13.59
+PC1,"Burkina Faso",1238,9111,13.59
+PC1,"Burundi",1238,9111,13.59
+PC1,"Cameroon",1238,9111,13.59
+PC1,"Cape Verde",1238,9111,13.59
+PC1,"Central African Republic",1238,9111,13.59
+PC1,"Chad",1238,9111,13.59
+PC1,"Comoros",1238,9111,13.59
+PC1,"Cote d'Ivoire",1238,9111,13.59
+PC1,"Democratic Republic of the Congo",1238,9111,13.59
+PC1,"Djibouti",1238,9111,13.59
+PC1,"Egypt",1238,9111,13.59
+PC1,"Equatorial Guinea",1238,9111,13.59
+PC1,"Eritrea",1238,9111,13.59
+PC1,"Ethiopia",1238,9111,13.59
+PC1,"Gabon",1238,9111,13.59
+PC1,"Gambia",1238,9111,13.59
+PC1,"Ghana",1238,9111,13.59
+PC1,"Guinea",1238,9111,13.59
+PC1,"Guinea-Bissau",1238,9111,13.59
+PC1,"Kenya",1238,9111,13.59
+PC1,"Lesotho",1238,9111,13.59
+PC1,"Liberia",1238,9111,13.59
+PC1,"Libya",1238,9111,13.59
+PC1,"Madagascar",1238,9111,13.59
+PC1,"Malawi",1238,9111,13.59
+PC1,"Mali",1238,9111,13.59
+PC1,"Mauritania",1238,9111,13.59
+PC1,"Mauritius",1238,9111,13.59
+PC1,"Morocco",1238,9111,13.59
+PC1,"Mozambique",1238,9111,13.59
+PC1,"Namibia",1238,9111,13.59
+PC1,"Niger",1238,9111,13.59
+PC1,"Nigeria",1238,9111,13.59
+PC1,"Republic of the Congo",1238,9111,13.59
+PC1,"Reunion",1238,9111,13.59
+PC1,"Rwanda",1238,9111,13.59
+PC1,"Saint Helena",1238,9111,13.59
+PC1,"Sao Tome and Principe",1238,9111,13.59
+PC1,"Senegal",1238,9111,13.59
+PC1,"Seychelles",1238,9111,13.59
+PC1,"Sierra Leone",1238,9111,13.59
+PC1,"Somalia",1238,9111,13.59
+PC1,"South Africa",1238,9111,13.59
+PC1,"South Sudan",1238,9111,13.59
+PC1,"Sudan",1238,9111,13.59
+PC1,"Swaziland",1238,9111,13.59
+PC1,"Tanzania",1238,9111,13.59
+PC1,"Togo",1238,9111,13.59
+PC1,"Tunisia",1238,9111,13.59
+PC1,"Uganda",1238,9111,13.59
+PC1,"Western Sahara",1238,9111,13.59
+PC1,"Zambia",1238,9111,13.59
+PC1,"Zimbabwe",1238,9111,13.59
+PC2,"Algeria",7873,9111,86.41
+PC2,"Angola",7873,9111,86.41
+PC2,"Benin",7873,9111,86.41
+PC2,"Botswana",7873,9111,86.41
+PC2,"Burkina Faso",7873,9111,86.41
+PC2,"Burundi",7873,9111,86.41
+PC2,"Cameroon",7873,9111,86.41
+PC2,"Cape Verde",7873,9111,86.41
+PC2,"Central African Republic",7873,9111,86.41
+PC2,"Chad",7873,9111,86.41
+PC2,"Comoros",7873,9111,86.41
+PC2,"Cote d'Ivoire",7873,9111,86.41
+PC2,"Democratic Republic of the Congo",7873,9111,86.41
+PC2,"Djibouti",7873,9111,86.41
+PC2,"Egypt",7873,9111,86.41
+PC2,"Equatorial Guinea",7873,9111,86.41
+PC2,"Eritrea",7873,9111,86.41
+PC2,"Ethiopia",7873,9111,86.41
+PC2,"Gabon",7873,9111,86.41
+PC2,"Gambia",7873,9111,86.41
+PC2,"Ghana",7873,9111,86.41
+PC2,"Guinea",7873,9111,86.41
+PC2,"Guinea-Bissau",7873,9111,86.41
+PC2,"Kenya",7873,9111,86.41
+PC2,"Lesotho",7873,9111,86.41
+PC2,"Liberia",7873,9111,86.41
+PC2,"Libya",7873,9111,86.41
+PC2,"Madagascar",7873,9111,86.41
+PC2,"Malawi",7873,9111,86.41
+PC2,"Mali",7873,9111,86.41
+PC2,"Mauritania",7873,9111,86.41
+PC2,"Mauritius",7873,9111,86.41
+PC2,"Morocco",7873,9111,86.41
+PC2,"Mozambique",7873,9111,86.41
+PC2,"Namibia",7873,9111,86.41
+PC2,"Niger",7873,9111,86.41
+PC2,"Nigeria",7873,9111,86.41
+PC2,"Republic of the Congo",7873,9111,86.41
+PC2,"Reunion",7873,9111,86.41
+PC2,"Rwanda",7873,9111,86.41
+PC2,"Saint Helena",7873,9111,86.41
+PC2,"Sao Tome and Principe",7873,9111,86.41
+PC2,"Senegal",7873,9111,86.41
+PC2,"Seychelles",7873,9111,86.41
+PC2,"Sierra Leone",7873,9111,86.41
+PC2,"Somalia",7873,9111,86.41
+PC2,"South Africa",7873,9111,86.41
+PC2,"South Sudan",7873,9111,86.41
+PC2,"Sudan",7873,9111,86.41
+PC2,"Swaziland",7873,9111,86.41
+PC2,"Tanzania",7873,9111,86.41
+PC2,"Togo",7873,9111,86.41
+PC2,"Tunisia",7873,9111,86.41
+PC2,"Uganda",7873,9111,86.41
+PC2,"Western Sahara",7873,9111,86.41
+PC2,"Zambia",7873,9111,86.41
+PC2,"Zimbabwe",7873,9111,86.41
+PC3,"American Samoa",788,788,100.00
+PC3,"Australia",788,788,100.00
+PC3,"Christmas Island",788,788,100.00
+PC3,"Cocos (Keeling) Islands",788,788,100.00
+PC3,"Cook Islands",788,788,100.00
+PC3,"Federated States of Micronesia",788,788,100.00
+PC3,"Fiji",788,788,100.00
+PC3,"French Polynesia",788,788,100.00
+PC3,"Guam",788,788,100.00
+PC3,"Kiribati",788,788,100.00
+PC3,"Marshall Islands",788,788,100.00
+PC3,"Nauru",788,788,100.00
+PC3,"New Caledonia",788,788,100.00
+PC3,"New Zealand",788,788,100.00
+PC3,"Niue",788,788,100.00
+PC3,"Northern Mariana Islands",788,788,100.00
+PC3,"Palau",788,788,100.00
+PC3,"Papua New Guinea",788,788,100.00
+PC3,"Pitcairn Islands",788,788,100.00
+PC3,"Samoa",788,788,100.00
+PC3,"Solomon Islands",788,788,100.00
+PC3,"Tokelau",788,788,100.00
+PC3,"Tonga",788,788,100.00
+PC3,"Tuvalu",788,788,100.00
+PC3,"Vanuatu",788,788,100.00
+PC3,"Wallis and Futuna Islands",788,788,100.00
+PC5,"Afghanistan",271,2474,10.95
+PC5,"Armenia",271,2474,10.95
+PC5,"Azerbaijan",271,2474,10.95
+PC5,"Bahrain",271,2474,10.95
+PC5,"Bangladesh",271,2474,10.95
+PC5,"Bhutan",271,2474,10.95
+PC5,"Brunei",271,2474,10.95
+PC5,"Burma",271,2474,10.95
+PC5,"Cambodia",271,2474,10.95
+PC5,"China",271,2474,10.95
+PC5,"Cyprus",271,2474,10.95
+PC5,"East Timor",271,2474,10.95
+PC5,"Georgia",271,2474,10.95
+PC5,"Hong Kong",271,2474,10.95
+PC5,"India",271,2474,10.95
+PC5,"Indonesia",271,2474,10.95
+PC5,"Iran",271,2474,10.95
+PC5,"Iraq",271,2474,10.95
+PC5,"Israel",271,2474,10.95
+PC5,"Japan",271,2474,10.95
+PC5,"Jordan",271,2474,10.95
+PC5,"Kazakhstan",271,2474,10.95
+PC5,"Kuwait",271,2474,10.95
+PC5,"Kyrgyzstan",271,2474,10.95
+PC5,"Laos",271,2474,10.95
+PC5,"Lebanon",271,2474,10.95
+PC5,"Macau",271,2474,10.95
+PC5,"Malaysia",271,2474,10.95
+PC5,"Maldives",271,2474,10.95
+PC5,"Mongolia",271,2474,10.95
+PC5,"Nepal",271,2474,10.95
+PC5,"North Korea",271,2474,10.95
+PC5,"Oman",271,2474,10.95
+PC5,"Pakistan",271,2474,10.95
+PC5,"Philippines",271,2474,10.95
+PC5,"Qatar",271,2474,10.95
+PC5,"Saudi Arabia",271,2474,10.95
+PC5,"Singapore",271,2474,10.95
+PC5,"South Korea",271,2474,10.95
+PC5,"Sri Lanka",271,2474,10.95
+PC5,"Syria",271,2474,10.95
+PC5,"Taiwan",271,2474,10.95
+PC5,"Tajikistan",271,2474,10.95
+PC5,"Thailand",271,2474,10.95
+PC5,"Turkey",271,2474,10.95
+PC5,"Turkmenistan",271,2474,10.95
+PC5,"United Arab Emirates",271,2474,10.95
+PC5,"Uzbekistan",271,2474,10.95
+PC5,"Vietnam",271,2474,10.95
+PC5,"Yemen",271,2474,10.95
+PC6,"Afghanistan",1731,2474,69.97
+PC6,"Armenia",1731,2474,69.97
+PC6,"Azerbaijan",1731,2474,69.97
+PC6,"Bahrain",1731,2474,69.97
+PC6,"Bangladesh",1731,2474,69.97
+PC6,"Bhutan",1731,2474,69.97
+PC6,"Brunei",1731,2474,69.97
+PC6,"Burma",1731,2474,69.97
+PC6,"Cambodia",1731,2474,69.97
+PC6,"China",1731,2474,69.97
+PC6,"Cyprus",1731,2474,69.97
+PC6,"East Timor",1731,2474,69.97
+PC6,"Georgia",1731,2474,69.97
+PC6,"Hong Kong",1731,2474,69.97
+PC6,"India",1731,2474,69.97
+PC6,"Indonesia",1731,2474,69.97
+PC6,"Iran",1731,2474,69.97
+PC6,"Iraq",1731,2474,69.97
+PC6,"Israel",1731,2474,69.97
+PC6,"Japan",1731,2474,69.97
+PC6,"Jordan",1731,2474,69.97
+PC6,"Kazakhstan",1731,2474,69.97
+PC6,"Kuwait",1731,2474,69.97
+PC6,"Kyrgyzstan",1731,2474,69.97
+PC6,"Laos",1731,2474,69.97
+PC6,"Lebanon",1731,2474,69.97
+PC6,"Macau",1731,2474,69.97
+PC6,"Malaysia",1731,2474,69.97
+PC6,"Maldives",1731,2474,69.97
+PC6,"Mongolia",1731,2474,69.97
+PC6,"Nepal",1731,2474,69.97
+PC6,"North Korea",1731,2474,69.97
+PC6,"Oman",1731,2474,69.97
+PC6,"Pakistan",1731,2474,69.97
+PC6,"Philippines",1731,2474,69.97
+PC6,"Qatar",1731,2474,69.97
+PC6,"Saudi Arabia",1731,2474,69.97
+PC6,"Singapore",1731,2474,69.97
+PC6,"South Korea",1731,2474,69.97
+PC6,"Sri Lanka",1731,2474,69.97
+PC6,"Syria",1731,2474,69.97
+PC6,"Taiwan",1731,2474,69.97
+PC6,"Tajikistan",1731,2474,69.97
+PC6,"Thailand",1731,2474,69.97
+PC6,"Turkey",1731,2474,69.97
+PC6,"Turkmenistan",1731,2474,69.97
+PC6,"United Arab Emirates",1731,2474,69.97
+PC6,"Uzbekistan",1731,2474,69.97
+PC6,"Vietnam",1731,2474,69.97
+PC6,"Yemen",1731,2474,69.97
+PC7,"Albania",1021,4492,22.73
+PC7,"Andorra",1021,4492,22.73
+PC7,"Austria",1021,4492,22.73
+PC7,"Belarus",1021,4492,22.73
+PC7,"Belgium",1021,4492,22.73
+PC7,"Bosnia and Herzegovina",1021,4492,22.73
+PC7,"Bulgaria",1021,4492,22.73
+PC7,"Croatia",1021,4492,22.73
+PC7,"Czech Republic",1021,4492,22.73
+PC7,"Denmark",1021,4492,22.73
+PC7,"Estonia",1021,4492,22.73
+PC7,"Finland",1021,4492,22.73
+PC7,"France",1021,4492,22.73
+PC7,"Germany",1021,4492,22.73
+PC7,"Gibraltar",1021,4492,22.73
+PC7,"Greece",1021,4492,22.73
+PC7,"Holy See",1021,4492,22.73
+PC7,"Hungary",1021,4492,22.73
+PC7,"Iceland",1021,4492,22.73
+PC7,"Ireland",1021,4492,22.73
+PC7,"Italy",1021,4492,22.73
+PC7,"Kosovo",1021,4492,22.73
+PC7,"Latvia",1021,4492,22.73
+PC7,"Liechtenstein",1021,4492,22.73
+PC7,"Lithuania",1021,4492,22.73
+PC7,"Luxembourg",1021,4492,22.73
+PC7,"Macedonia",1021,4492,22.73
+PC7,"Malta",1021,4492,22.73
+PC7,"Moldova",1021,4492,22.73
+PC7,"Monaco",1021,4492,22.73
+PC7,"Montenegro",1021,4492,22.73
+PC7,"Netherlands",1021,4492,22.73
+PC7,"Norway",1021,4492,22.73
+PC7,"Poland",1021,4492,22.73
+PC7,"Portugal",1021,4492,22.73
+PC7,"Romania",1021,4492,22.73
+PC7,"Russia",1021,4492,22.73
+PC7,"San Marino",1021,4492,22.73
+PC7,"Slovak Republic",1021,4492,22.73
+PC7,"Slovenia",1021,4492,22.73
+PC7,"Spain",1021,4492,22.73
+PC7,"Serbia",1021,4492,22.73
+PC7,"Serbia and Montenegro",1021,4492,22.73
+PC7,"Sweden",1021,4492,22.73
+PC7,"Switzerland",1021,4492,22.73
+PC7,"Ukraine",1021,4492,22.73
+PC7,"United Kingdom",1021,4492,22.73
+PC8,"Afghanistan",106,2474,4.28
+PC8,"Armenia",106,2474,4.28
+PC8,"Azerbaijan",106,2474,4.28
+PC8,"Bahrain",106,2474,4.28
+PC8,"Bangladesh",106,2474,4.28
+PC8,"Bhutan",106,2474,4.28
+PC8,"Brunei",106,2474,4.28
+PC8,"Burma",106,2474,4.28
+PC8,"Cambodia",106,2474,4.28
+PC8,"China",106,2474,4.28
+PC8,"Cyprus",106,2474,4.28
+PC8,"East Timor",106,2474,4.28
+PC8,"Georgia",106,2474,4.28
+PC8,"Hong Kong",106,2474,4.28
+PC8,"India",106,2474,4.28
+PC8,"Indonesia",106,2474,4.28
+PC8,"Iran",106,2474,4.28
+PC8,"Iraq",106,2474,4.28
+PC8,"Israel",106,2474,4.28
+PC8,"Japan",106,2474,4.28
+PC8,"Jordan",106,2474,4.28
+PC8,"Kazakhstan",106,2474,4.28
+PC8,"Kuwait",106,2474,4.28
+PC8,"Kyrgyzstan",106,2474,4.28
+PC8,"Laos",106,2474,4.28
+PC8,"Lebanon",106,2474,4.28
+PC8,"Macau",106,2474,4.28
+PC8,"Malaysia",106,2474,4.28
+PC8,"Maldives",106,2474,4.28
+PC8,"Mongolia",106,2474,4.28
+PC8,"Nepal",106,2474,4.28
+PC8,"North Korea",106,2474,4.28
+PC8,"Oman",106,2474,4.28
+PC8,"Pakistan",106,2474,4.28
+PC8,"Philippines",106,2474,4.28
+PC8,"Qatar",106,2474,4.28
+PC8,"Saudi Arabia",106,2474,4.28
+PC8,"Singapore",106,2474,4.28
+PC8,"South Korea",106,2474,4.28
+PC8,"Sri Lanka",106,2474,4.28
+PC8,"Syria",106,2474,4.28
+PC8,"Taiwan",106,2474,4.28
+PC8,"Tajikistan",106,2474,4.28
+PC8,"Thailand",106,2474,4.28
+PC8,"Turkey",106,2474,4.28
+PC8,"Turkmenistan",106,2474,4.28
+PC8,"United Arab Emirates",106,2474,4.28
+PC8,"Uzbekistan",106,2474,4.28
+PC8,"Vietnam",106,2474,4.28
+PC8,"Yemen",106,2474,4.28
+PC9,"Afghanistan",366,2474,14.79
+PC9,"Armenia",366,2474,14.79
+PC9,"Azerbaijan",366,2474,14.79
+PC9,"Bahrain",366,2474,14.79
+PC9,"Bangladesh",366,2474,14.79
+PC9,"Bhutan",366,2474,14.79
+PC9,"Brunei",366,2474,14.79
+PC9,"Burma",366,2474,14.79
+PC9,"Cambodia",366,2474,14.79
+PC9,"China",366,2474,14.79
+PC9,"Cyprus",366,2474,14.79
+PC9,"East Timor",366,2474,14.79
+PC9,"Georgia",366,2474,14.79
+PC9,"Hong Kong",366,2474,14.79
+PC9,"India",366,2474,14.79
+PC9,"Indonesia",366,2474,14.79
+PC9,"Iran",366,2474,14.79
+PC9,"Iraq",366,2474,14.79
+PC9,"Israel",366,2474,14.79
+PC9,"Japan",366,2474,14.79
+PC9,"Jordan",366,2474,14.79
+PC9,"Kazakhstan",366,2474,14.79
+PC9,"Kuwait",366,2474,14.79
+PC9,"Kyrgyzstan",366,2474,14.79
+PC9,"Laos",366,2474,14.79
+PC9,"Lebanon",366,2474,14.79
+PC9,"Macau",366,2474,14.79
+PC9,"Malaysia",366,2474,14.79
+PC9,"Maldives",366,2474,14.79
+PC9,"Mongolia",366,2474,14.79
+PC9,"Nepal",366,2474,14.79
+PC9,"North Korea",366,2474,14.79
+PC9,"Oman",366,2474,14.79
+PC9,"Pakistan",366,2474,14.79
+PC9,"Philippines",366,2474,14.79
+PC9,"Qatar",366,2474,14.79
+PC9,"Saudi Arabia",366,2474,14.79
+PC9,"Singapore",366,2474,14.79
+PC9,"South Korea",366,2474,14.79
+PC9,"Sri Lanka",366,2474,14.79
+PC9,"Syria",366,2474,14.79
+PC9,"Taiwan",366,2474,14.79
+PC9,"Tajikistan",366,2474,14.79
+PC9,"Thailand",366,2474,14.79
+PC9,"Turkey",366,2474,14.79
+PC9,"Turkmenistan",366,2474,14.79
+PC9,"United Arab Emirates",366,2474,14.79
+PC9,"Uzbekistan",366,2474,14.79
+PC9,"Vietnam",366,2474,14.79
+PC9,"Yemen",366,2474,14.79
